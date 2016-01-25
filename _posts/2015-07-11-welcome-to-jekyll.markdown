@@ -4,7 +4,7 @@ title:  "Welcome to Jekyll!"
 date:   2015-07-11 11:34:20
 categories: jekyll
 author: Google Developers Group Managua
-image: http://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
+image: https://i1.wp.com/wptavern.com/wp-content/uploads/2014/12/jekyll.png
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -22,6 +22,6 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
-[jekyll]:      http://jekyllrb.com
+[jekyll]:      https://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
